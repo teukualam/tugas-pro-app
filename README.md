@@ -54,18 +54,4 @@ Tugas-Pro hadir sebagai jembatan bagi mahasiswa yang menghadapi kendala dalam pe
 
 ---
 
-## 🚀 Instalasi Cepat
-Siapkan lingkungan pengembangan Anda dalam hitungan menit:
 
-```bash
-# 1. Clone repositori
-git clone [https://github.com/TugasPro/repo-name.git](https://github.com/TugasPro/repo-name.git)
-
-# 2. Instal dependensi menggunakan NPM atau Yarn
-npm install
-
-# 3. Konfigurasi variabel lingkungan (Environment Variables)
-cp .env.example .env
-
-# 4. Jalankan aplikasi secara lokal
-npm run dev
